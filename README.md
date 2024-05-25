@@ -9,4 +9,4 @@ This is a clone of UltraEdit website with all the html and css concepts :
 ![Screenshot 2024-05-25 174615](https://github.com/Manvanthmanu/UltraEditClone/assets/92145905/9dcd63fd-8dce-4b5a-8fea-94c7256cbeac)
 
 
-The hosted link is -![]( https://manvanthmanu.github.io/UltraEditClone/ )
+The hosted link is -![UltraEdit]( https://manvanthmanu.github.io/UltraEditClone/ )
